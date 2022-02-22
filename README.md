@@ -1,3 +1,5 @@
+![Project Screenshot](url "./projectscreenshot.PNG")
+
 # PDT - Assignment 1 
 
 This website is made in order to satisfy the assigment from the Pyschology and Design Thinking Course.
