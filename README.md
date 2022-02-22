@@ -24,6 +24,11 @@ After the cloning is successful, go to the folder by running :
 $ cd ~/PDT-Assignment1
 ```
 
+Build the dependencies required by running :
+```
+$ npm install
+```
+
 To start the app run the following :
 ```
 $ node index.js
