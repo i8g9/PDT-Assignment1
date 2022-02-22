@@ -44,13 +44,6 @@ Go to your web browser of choice and open the following url :
 localhost:3000
 ```
 
-## Built With
-
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
-
 ## Authors
 
  **Immanuel Azarya Garibaldi - 001202100116** - Project creator - [i8g9](https://github.com/i8g9)
