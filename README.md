@@ -1,4 +1,4 @@
-![Project Screenshot](url "./projectscreenshot.PNG")
+![Project Screenshot](url "projectscreenshot.PNG")
 
 # PDT - Assignment 1 
 
