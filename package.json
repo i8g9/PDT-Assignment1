@@ -1,0 +1,15 @@
+{
+  "name": "puapp",
+  "version": "0.1.0",
+  "description": "An app for the PDT assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Immanuel A. G.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.2"
+  }
+}
