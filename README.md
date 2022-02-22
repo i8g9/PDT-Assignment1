@@ -48,8 +48,7 @@ localhost:3000
 
 ## Authors
 
- **Immanuel Azarya Garibaldi - 001202100116** 
-    [i8g9](https://github.com/i8g9)
+ **Immanuel Azarya Garibaldi - 001202100116** - Project creator - [i8g9](https://github.com/i8g9)
 
 ## License
 
@@ -57,5 +56,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
- **Mr. Williem Sudiono** 
-    [WilliemSudiono](https://github.com/WilliemSudiono)
+ **Mr. Williem Sudiono** - Lecturer - [WilliemSudiono](https://github.com/WilliemSudiono)
